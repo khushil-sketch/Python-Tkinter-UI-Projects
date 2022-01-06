@@ -12,7 +12,7 @@ root.configure(background='#4d004d')
 try:
     # GETTING & PARSING JSON DATA
     api_request = requests.get(
-        "https://www.airnowapi.org/aq/observation/zipCode/current/?format=application/json&zipCode=95616&distance=5&API_KEY=64FFC6AE-002B-4677-8A44-AF9E3796D83B")
+        "https://www.airnowapi.org/aq/observation/zipCode/current/?format=application/json&zipCode=95616&distance=5&API_KEY=INSERT API KEY HERE")
     # print(api_request.content) #Prints the content of whatever requests gets from the API. So, it prints the raw JSON string because we havent parsed it yet.
     api = json.loads(api_request.content)  # parses the JSON string into a Python dictionary
     # Note: Parameter 03 means Ozone. The site doesn't say it, but the guy in the tutorials says it.
