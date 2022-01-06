@@ -11,5 +11,5 @@ Created only using tkinter, can only do addition.
 Created using tkinter and SQLite 3 since it was necessary to have a database management system to store and handle the information given to the address book.
 
 ## Air Quality Indicator
-Created using Tkinter and the Requests library in conjunction with the AirNow API. To use the API, you shall need to insert your personal API key in the designated area, which I have marked in the code. You can get your API key from here: https://docs.airnowapi.org/
+Created using tkinter and the requests library in conjunction with the AirNow API. To use the API, you shall need to insert your personal API key in the designated area, which I have marked in the code. You can get your API key from here: https://docs.airnowapi.org/
 
