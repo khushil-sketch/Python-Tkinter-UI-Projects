@@ -5,12 +5,12 @@ Repo containing projects made using Python's Tkinter UI Library. There are 3 app
 3. Air Quality Indicator
 
 ## Calculator
-Created only using tkinter, can only do addition.
+Designed a calculator UI that can add two numbers and output the result.
 
 ## Address book
-Stores names and contact information.
-Interface desgined using tkinter and back-end implemented with SQLite.
+Coded an addressbook - it stores people's names and other contact information.
+Desgined it using tkinter and SQLite.
 
 ## Air Quality Indicator
-Created using tkinter and the requests library in conjunction with the AirNow API. To use the API, you shall need to insert your personal API key in the designated area, which I have marked in the code. You can get your API key from here: https://docs.airnowapi.org/
+Created using Tkinter and the Requests library in conjunction with the AirNow API. To use the API, you shall need to insert your personal API key in the designated area, which I have marked in the code. You can get your API key from here: https://docs.airnowapi.org/
 
