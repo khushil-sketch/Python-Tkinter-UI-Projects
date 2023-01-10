@@ -1,4 +1,4 @@
-# Tkinter-Based-Projects
+# Python-Projects
 Repo containing projects made using Python's Tkinter UI Library. There are 3 apps that I created using tkinter:
 1. Calculator 
 2. Address book
