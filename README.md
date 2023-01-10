@@ -1,5 +1,5 @@
 # Tkinter-Based-Projects
-Repo containing simple projects made using Python's Tkinter Library. There are 3 apps that I created using tkinter:
+Repo containing projects made using Python's Tkinter UI Library. There are 3 apps that I created using tkinter:
 1. Calculator 
 2. Address book
 3. Air Quality Indicator
