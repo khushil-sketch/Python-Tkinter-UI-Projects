@@ -12,8 +12,14 @@ I created a calculator application as a heartfelt tribute to the early computers
 
 
 ## Address book
-Coded an addressbook - it stores people's names and other contact information.
+I developed an address book application using Python and Tkinter and enhanced with the functionality of SQL database integration. This intuitive application allows users to efficiently manage and store their contacts. By leveraging the power of my user-friendly interface, it offers a seamless experience for organizing and retrieving essential contact information.
 Desgined it using tkinter and SQLite.
+
+![image](https://github.com/khushil-sketch/Python-Tkinter-UI-Projects/assets/52947378/d6cbcfe3-1835-4df4-ba7a-3d90ffe84ead)
+
+What is displayed when a record is fetched from the SQL database
+![image](https://github.com/khushil-sketch/Python-Tkinter-UI-Projects/assets/52947378/f3bbcb0e-a451-4f9f-ab14-69f1714a6285)
+
 
 ## Air Quality Indicator
 
