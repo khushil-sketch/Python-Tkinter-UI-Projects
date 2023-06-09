@@ -6,7 +6,7 @@ Repo containing projects made using Python's Tkinter UI Library. There are 3 app
 
 ## Calculator
 
-I created a calculator application as a tribute to the early computers that were originally calculators. Inspired by their pioneering spirit, this app embodies the essence of those historical machines while incorporating a modern look. 
+I created a calculator application as a tribute to the early computers that were originally just calculators. Inspired by their pioneering spirit, this app embodies the essence of those historical machines while incorporating a modern look. 
 
 ![image](https://github.com/khushil-sketch/Python-Tkinter-UI-Projects/assets/52947378/59635e4a-2817-471a-815d-94b06cfedf8b)
 
